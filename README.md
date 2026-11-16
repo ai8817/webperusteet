@@ -136,3 +136,11 @@ HTML:n oikea rakenne ja elementtien sulkeminen ovat tärkeitä, jotta verkkosivu
 
 - [MDN – HTML](https://developer.mozilla.org/en-US/docs/Glossary/HTML)
 - [MDN – Basic HTML syntax](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content/Basic_HTML_syntax)
+
+## MHOO 1. Selaimet
+
+Verkkoselaimia ovat esimerkiksi Google Chrome, Safari, Mozilla Firefox, Microsoft Edge ja Opera. Selainmoottori on selaimen osa, joka käsittelee HTML-, CSS- ja JavaScript-koodia ja muuttaa sen näkyväksi verkkosivuksi.
+
+Yleisimpiä selainmoottoreita ovat Blink, WebKit ja Gecko. Chrome, Edge ja Opera käyttävät Blink-moottoria, Safari käyttää WebKit-moottoria ja Firefox käyttää Gecko-moottoria. Eri laitteilla ja käyttöjärjestelmillä moottorit voivat vaihdella. Esimerkiksi iPhonen selaimet käyttävät yleensä WebKit-moottoria, kun taas Androidilla käytetään useita eri moottoreita.
+
+Selainmoottori voi vaikuttaa verkkosivun ulkoasuun ja toimintaan. Sama sivu voi näyttää hieman erilaiselta eri selaimissa, koska moottorit voivat käsitellä esimerkiksi fontteja, värejä, asetteluja ja animaatioita eri tavoin. Tämän vuoksi verkkosivut kannattaa testata useilla selaimilla ja eri laitteilla.
